@@ -1,6 +1,7 @@
 {
   "name": "azure-static-site-example",
   "scripts": {
+    "build": "",
     "start": "live-server"
   },
   "devDependencies": {
