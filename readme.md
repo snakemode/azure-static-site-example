@@ -16,7 +16,7 @@ npm install -g azure-functions-core-tools
 From the respository root open a prompt and type
 
 ```bash
-npx live-server
+npx live-server --proxy=/api:http://127.0.0.1:7071/api
 ```
 
 To run the static web app.
